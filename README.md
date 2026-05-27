@@ -1,5 +1,23 @@
 # QA Learning Journey
 
+## Day 3 - May 27, 2026
+
+### What I learned today:
+- Revised CS50P Week 0 string methods from memory (no laptop, power cut)
+- Active recall practice on phone
+
+### String methods recalled independently:
+- f-string, strip(), capitalize(), title(), user defined functions
+
+### String methods I needed reminding of:
+- upper(), lower(), replace(), split()
+
+### What I will practice tomorrow:
+- Code all 9 string methods from memory in VS Code
+
+### How I feel:
+- Everyday will not be in my favor, having no backup during power cuts definitely hurts my progress but revising concepts and practicing active recalling was such a great experience. I also practiced file management & navigating using terminal. 
+
 ## Day 2 - May 26, 2026
 
 ### What I learned today:
