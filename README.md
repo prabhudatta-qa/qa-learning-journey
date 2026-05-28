@@ -1,5 +1,22 @@
 # QA Learning Journey
 
+## Day 4 - May 28, 2026
+
+### What I learned today:
+- Applied CS50P Week 0 theory to solve three custom core Python practical challenges.
+- Learned how Python relies on strict indentation for block structure and fixed a `SyntaxError: 'return' outside function`.
+- Explored the side effects of using the `.lower()` method on string data and how it impacts case-sensitive URL paths.
+- Understood the core purpose of data sanitation in QA: cleaning "dirty" data strings in variables before passing them into automation frameworks like Playwright.
+
+### Tech terms learned:
+- **Indentation Error / SyntaxError:** An error that occurs when code blocks (like the inside of a function) are not properly spaced or aligned.
+- **Data Sanitation:** The process of cleaning, formatting, and filtering raw input data so it is safe and predictable for software modules to process.
+
+### How I feel:
+- Seeing code throw errors was slightly frustrating at first, but understanding *why* data needs to be cleaned for automation cleared up the bigger picture of what I'm building toward.
+
+---
+
 ## Day 3 - May 27, 2026
 
 ### What I learned today:
@@ -18,6 +35,8 @@
 ### How I feel:
 - Everyday will not be in my favor, having no backup during power cuts definitely hurts my progress but revising concepts and practicing active recalling was such a great experience. I also practiced file management & navigating using terminal. 
 
+---
+
 ## Day 2 - May 26, 2026
 
 ### What I learned today:
@@ -34,6 +53,8 @@
 
 ### How I feel:
 - A bad sleep cycle threw off my focus and external goals today, but wrapping my head around f-strings and scope sets me up for a heavy practice session tomorrow.
+
+---
 
 ## Day 1 - May 25, 2026
 
