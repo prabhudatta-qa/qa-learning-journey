@@ -1,5 +1,28 @@
 # QA Learning Journey
 
+### Day 5: May 29, 2026
+
+#### 🎯 Today's Goals
+- [x] Complete the uTest Academy "Testing Basics" module.
+- [x] Pass the Module Quiz (5/5 correct answers).
+- [x] Review manual testing core fundamentals.
+
+#### 📝 What I Did Today
+- **uTest Academy Progress**: 
+  - Dove deep into bug types, specifically identifying and differentiating performance bugs (e.g., app lag/slow responsiveness on a stable network) from functional bugs.
+  - Studied the importance of clear evidence collection (device logs, screen recordings with timelines).
+  - Reviewed uTest reporting best practices, such as avoiding duplicate reports, understanding why reporting placeholder elements is bad practice, and how rigorous testing directly drives customer satisfaction and security.
+- **Quiz Success**: Successfully completed the 5-question Testing Basics quiz with a perfect score by focusing on core QA methodologies.
+
+#### 🧠 Key Takeaways
+- **Performance Bugs**: App lag under stable network conditions points to internal resource issues (CPU/memory spikes) rather than external connectivity.
+- **Reporting Quality**: Avoiding grammatical errors and checking for duplicate bugs in the cycle chat are critical steps to ensuring high bug approval rates and payouts.
+
+#### 🚀 Plans for Tomorrow (Day 6)
+- Setup the VS Code environment specifically for the CS50 Python course.
+- Tackle CS50 Problem Set 0 to sharpen problem-solving and logic skills.
+- Begin the **uTest Cycle Process** module to master test invitations, scope requirements, and execution workflows.
+
 ## Day 4 - May 28, 2026
 
 ### What I learned today:
