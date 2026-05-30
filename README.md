@@ -1,5 +1,34 @@
 # QA Learning Journey
 
+## Day 6 - May 30, 2026
+
+### What I learned today:
+- Completed uTest Academy module: uTest Cycle Process — understood 
+  core platform testing mechanics and how real test cycles are 
+  structured and executed.
+- Independently researched and designed a workspace power backup 
+  solution (single-wire loop pathing, ₹25k-₹30k for 1KVA inverter 
+  + 200Ah battery) to eliminate power cut disruptions permanently.
+- Received real-world portfolio advice from a 21-YoE veteran QA 
+  engineer on Reddit — applied insights directly to current 
+  learning direction.
+
+### Tech terms learned:
+- **uTest Cycle Structure:** The organized process through which 
+  test cycles are created, assigned, executed and reported on the 
+  uTest platform including scope, devices and bug submission 
+  protocols.
+- **Test Data Separation:** The principle of keeping test input 
+  data independent from test logic code so that test cases remain 
+  maintainable and reusable across different environments.
+
+### How I feel:
+- Grounded and focused on execution over distraction. Staying 
+  consistent despite power cuts and setup delays feels like 
+  building real discipline, not just technical skills.
+
+---
+
 ### Day 5: May 29, 2026
 
 #### 🎯 Today's Goals
